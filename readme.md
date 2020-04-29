@@ -3,7 +3,7 @@ This glossary will be a quick guide for all technical terms inside our platform
 ### Project
 A project is where you have all the orchestration needed to connect Applications. 
 This will be the final package ready for distribution.
-Teste
+Teste testing
                 
 ### Application
 We call a Universal Application every third-company endpoint that is ready to connect with LinkApi. 
